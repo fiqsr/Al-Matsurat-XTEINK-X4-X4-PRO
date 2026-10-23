@@ -1,9 +1,10 @@
 # Al-Ma'tsurat untuk Xteink X4 & X4 Pro (Sugro & Kubro)
 
-[![Download Pagi Sugro](https://img.shields.io/badge/Unduh-01%20Pagi%20Sugro%20(.XTC)-2ea44f?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/raw/main/xtc/01-Al-Matsurat-Pagi-Sugro.xtc)
-[![Download Petang Sugro](https://img.shields.io/badge/Unduh-02%20Petang%20Sugro%20(.XTC)-blue?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/raw/main/xtc/02-Al-Matsurat-Petang-Sugro.xtc)
-[![Download Pagi Kubro](https://img.shields.io/badge/Unduh-03%20Pagi%20Kubro%20(.XTC)-purple?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/raw/main/xtc/03-Al-Matsurat-Pagi-Kubro.xtc)
-[![Download Petang Kubro](https://img.shields.io/badge/Unduh-04%20Petang%20Kubro%20(.XTC)-orange?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/raw/main/xtc/04-Al-Matsurat-Petang-Kubro.xtc)
+[![Release](https://img.shields.io/github/v/release/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO?label=Release&color=2ea44f)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/releases/latest)
+[![Download Pagi Sugro](https://img.shields.io/badge/Unduh-01%20Pagi%20Sugro%20(.XTC)-2ea44f?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/releases/download/v1.0.0/01-Al-Matsurat-Pagi-Sugro.xtc)
+[![Download Petang Sugro](https://img.shields.io/badge/Unduh-02%20Petang%20Sugro%20(.XTC)-blue?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/releases/download/v1.0.0/02-Al-Matsurat-Petang-Sugro.xtc)
+[![Download Pagi Kubro](https://img.shields.io/badge/Unduh-03%20Pagi%20Kubro%20(.XTC)-purple?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/releases/download/v1.0.0/03-Al-Matsurat-Pagi-Kubro.xtc)
+[![Download Petang Kubro](https://img.shields.io/badge/Unduh-04%20Petang%20Kubro%20(.XTC)-orange?logo=github)](https://github.com/fiqsr/Al-Matsurat-XTEINK-X4-X4-PRO/releases/download/v1.0.0/04-Al-Matsurat-Petang-Kubro.xtc)
 
 Koleksi lengkap **Al-Ma'tsurat (Dzikir Pagi & Petang — Sugro & Kubro)** dalam format native **`.xtc`** yang disiapkan khusus untuk dibaca pada perangkat e-reader / e-paper saku **Xteink X4 & Xteink X4 Pro** (resolusi fisik 480 × 800 piksel).
 
